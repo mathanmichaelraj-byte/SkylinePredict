@@ -1,0 +1,22 @@
+packages:
+  "react-leaflet": "React components for Leaflet maps"
+  "leaflet": "Interactive maps library"
+  "@types/leaflet": "Types for leaflet"
+  "recharts": "Data visualization for price history"
+  "framer-motion": "Animations and page transitions"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility function to efficiently merge Tailwind CSS classes"
+  "date-fns": "Date formatting for news and charts"
+
+images:
+  - path: "artifacts/property-intel/public/images/hero-bg.png"
+    description: "Dark, moody architectural abstract of modern real estate buildings with warm golden Hour lighting, subtle deep green and earthy brown tones"
+    aspect_ratio: "16:9"
+  - path: "artifacts/property-intel/public/images/logo-icon.png"
+    description: "Minimalist geometric logo mark representing a building and an upward trending arrow, designed in metallic gold on a transparent background"
+    aspect_ratio: "1:1"
+
+notes:
+  - Using react-leaflet for map rendering with CartoDB Dark Matter basemap.
+  - Relying on @workspace/api-client-react for TanStack Query hooks.
+  - Custom UI elements built to match dark earthy professional theme.
