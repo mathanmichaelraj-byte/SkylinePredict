@@ -1,4 +1,4 @@
-# PropertyIntel – Real Estate Intelligence Platform
+# SKYLINE PREDICT – Real Estate Intelligence Platform
 ## SAMSUNG Campus Innovation Project
 
 ## Overview
